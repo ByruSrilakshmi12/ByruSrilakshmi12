@@ -2,8 +2,8 @@
 - 👀 I’m interested in DATA SCIENCE and DATA ANALYTICS..
 - 🌱 I’m currently learning  practical work on DataScience And DataAnalytics..
 - 💞️ I’m looking to collaborate on Big Data Analytics and Market Data Analytics.. 
-- 📫 <li><a href=https://www.linkedin.com/in/srilakshmi-byru-35ba25208/
-- <br>I got to have hands on experience on:
+- 📫 How to reach me : https://www.linkedin.com/in/srilakshmi-byru-35ba25208/
+- I got to have hands on experience on:
      <li>JavaScript
      <li>HTML
      <li>React.js
